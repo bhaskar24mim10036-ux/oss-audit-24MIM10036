@@ -1,5 +1,5 @@
 # oss-audit-24MIM10036
-## Open Source Software Audit — Git 
+## Open Source Software — Git 
 
 ## Student Details
 Name: Bhaskar Joshnavi Bai
