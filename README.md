@@ -47,6 +47,8 @@ This script generates a personalized open-source manifesto based on user input a
 ```bash
 cd path/to/your/scripts
 
+---
+
 ## 3. Give execution permission
 chmod +x script1.sh script2.sh script3.sh script4.sh script5.sh
 
