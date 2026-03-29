@@ -49,20 +49,34 @@ cd path/to/your/scripts
 ```
 
 ### 3. Give execution permission
+```bash
 chmod +x script1.sh script2.sh script3.sh script4.sh script5.sh
+```
 
 ### 4. Run scripts
-#### Script 1
-./script1.sh
-#### Script 2
-./script2.sh
-#### Script 3
-./script3.sh
-#### Script 4
-./script4.sh
-#### Script 5
-./script5.sh
 
+#### Script 1
+```bash
+./script1.sh
+```
+
+#### Script 2
+```bash
+./script2.sh
+```
+
+#### Script 3
+```bash
+./script3.sh
+```
+#### Script 4
+```bash
+./script4.sh
+```
+#### Script 5
+```bash
+./script5.sh
+```
 ---
 
 # Dependencies
