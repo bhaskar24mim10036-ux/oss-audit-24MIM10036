@@ -46,13 +46,12 @@ This script generates a personalized open-source manifesto based on user input a
 # 2. Navigate to project folder
 ```bash
 cd path/to/your/scripts
+```
 
----
-
-## 3. Give execution permission
+# 3. Give execution permission
 chmod +x script1.sh script2.sh script3.sh script4.sh script5.sh
 
-## 4. Run scripts
+# 4. Run scripts
 # Script 1
 ./script1.sh
 # Script 2
@@ -66,7 +65,7 @@ chmod +x script1.sh script2.sh script3.sh script4.sh script5.sh
 
 ---
 
-## Dependencies
+# Dependencies
 1. Linux(Ubuntu via WSL)
 2. Bash shell
 3. Git 
